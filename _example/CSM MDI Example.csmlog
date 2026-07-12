@@ -1,0 +1,155 @@
+- PeriodicLog.Enable | 1
+- PeriodicLog.Threshold(#/s) | 2.00
+- PeriodicLog.CheckPeriod(s) | 1.00
+2026/07/12 11:19:24.058 [11:19:24.058] [Module Created] CSM MDI |  >> MDI ViewManager.lvlib:CSM MDI.vi:6700004 > MDI ViewManager.lvlib:CSM MDI.vi.ACBRProxyCaller.2A00111
+2026/07/12 11:19:24.058 [11:19:24.058] [State Change] CSM MDI | Macro: Initialize
+2026/07/12 11:19:24.058 [11:19:24.058] [Sync Message] -SendMsgAPIC167C6D1CE7E | VI Reference -@ CSM MDI
+2026/07/12 11:19:24.058 [11:19:24.058] [State Change] CSM MDI | Data: Initialize
+2026/07/12 11:19:24.058 [11:19:24.058] [State Change] CSM MDI | Initialize Core Data
+2026/07/12 11:19:24.059 [11:19:24.059] [State Change] CSM MDI | UI: Initialize
+2026/07/12 11:19:24.059 [11:19:24.059] [State Change] CSM MDI | UI: Front Panel State >> Maximize
+2026/07/12 11:19:24.150 [11:19:24.150] [State Change] CSM MDI | Events: Register
+2026/07/12 11:19:24.150 [11:19:24.150] [State Change] CSM MDI | VI Reference <- -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.150 [11:19:24.150] [Sync Message] CSM MDI | VI Reference(Complete) -@ -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.153 [11:19:24.152] [State Change] CSM MDI | 
+2026/07/12 11:19:24.169 [11:19:24.169] [State Change] CSM MDI | 
+2026/07/12 11:19:24.254 [11:19:24.254] [Module Created] Chart1 |  >> Chart.vi:1240005 > Chart.vi.ACBRProxyCaller.34000E6
+2026/07/12 11:19:24.254 [11:19:24.254] [Sync Message] -SendMsgAPIC167C6D1CE7E | VI Reference -@ Chart1
+2026/07/12 11:19:24.254 [11:19:24.254] [State Change] Chart1 | Macro: Initialize
+2026/07/12 11:19:24.254 [11:19:24.254] [State Change] Chart1 | Data: Initialize
+2026/07/12 11:19:24.254 [11:19:24.254] [State Change] Chart1 | Initialize Core Data
+2026/07/12 11:19:24.255 [11:19:24.255] [State Change] Chart1 | Events: Register
+2026/07/12 11:19:24.255 [11:19:24.255] [State Change] Chart1 | UI: Initialize
+2026/07/12 11:19:24.255 [11:19:24.255] [State Change] Chart1 | VI Reference <- -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.256 [11:19:24.256] [Sync Message] Chart1 | VI Reference(Complete) -@ -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.257 [11:19:24.257] [State Change] Chart1 | 
+2026/07/12 11:19:24.278 [11:19:24.278] [Module Created] Chart2 |  >> Chart.vi:1240006 > Chart.vi.ACBRProxyCaller.3800072
+2026/07/12 11:19:24.279 [11:19:24.278] [State Change] Chart2 | Macro: Initialize
+2026/07/12 11:19:24.279 [11:19:24.278] [Sync Message] -SendMsgAPIC167C6D1CE7E | VI Reference -@ Chart2
+2026/07/12 11:19:24.279 [11:19:24.279] [State Change] Chart2 | Data: Initialize
+2026/07/12 11:19:24.279 [11:19:24.279] [State Change] Chart2 | Initialize Core Data
+2026/07/12 11:19:24.281 [11:19:24.281] [State Change] Chart2 | Events: Register
+2026/07/12 11:19:24.281 [11:19:24.281] [State Change] Chart2 | UI: Initialize
+2026/07/12 11:19:24.281 [11:19:24.281] [State Change] Chart2 | VI Reference <- -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.281 [11:19:24.281] [Sync Message] Chart2 | VI Reference(Complete) -@ -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.282 [11:19:24.282] [State Change] Chart2 | 
+2026/07/12 11:19:24.302 [11:19:24.302] [Module Created] Light |  >> Light.vi:2880002 > Light.vi.ACBRProxyCaller.3C000AF
+2026/07/12 11:19:24.302 [11:19:24.302] [Sync Message] -SendMsgAPIC167C6D1CE7E | VI Reference -@ Light
+2026/07/12 11:19:24.302 [11:19:24.302] [State Change] Light | Macro: Initialize
+2026/07/12 11:19:24.302 [11:19:24.302] [State Change] Light | Data: Initialize
+2026/07/12 11:19:24.302 [11:19:24.302] [State Change] Light | Initialize Core Data
+2026/07/12 11:19:24.303 [11:19:24.303] [State Change] Light | Events: Register
+2026/07/12 11:19:24.303 [11:19:24.303] [State Change] Light | UI: Initialize
+2026/07/12 11:19:24.303 [11:19:24.303] [State Change] Light | VI Reference <- -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.303 [11:19:24.303] [Sync Message] Light | VI Reference(Complete) -@ -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.304 [11:19:24.304] [State Change] Light | 
+2026/07/12 11:19:24.323 [11:19:24.323] [Module Created] Silde |  >> Slide.vi:7270002 > Slide.vi.ACBRProxyCaller.40000C1
+2026/07/12 11:19:24.323 [11:19:24.323] [State Change] Silde | Macro: Initialize
+2026/07/12 11:19:24.323 [11:19:24.323] [Sync Message] -SendMsgAPIC167C6D1CE7E | VI Reference -@ Silde
+2026/07/12 11:19:24.324 [11:19:24.324] [State Change] Silde | Data: Initialize
+2026/07/12 11:19:24.324 [11:19:24.324] [State Change] Silde | Initialize Core Data
+2026/07/12 11:19:24.324 [11:19:24.324] [State Change] Silde | Events: Register
+2026/07/12 11:19:24.324 [11:19:24.324] [State Change] Silde | UI: Initialize
+2026/07/12 11:19:24.324 [11:19:24.324] [State Change] Silde | VI Reference <- -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.324 [11:19:24.324] [Sync Message] Silde | VI Reference(Complete) -@ -SendMsgAPIC167C6D1CE7E
+2026/07/12 11:19:24.325 [11:19:24.325] [State Change] Silde | 
+2026/07/12 11:19:24.325 [11:19:24.325] [No-Rep Async Message] -RunScriptAPI07F4821E6AD4 | API: Update Subpanel >> <HEXSTR>2000800000000001001240700008000000410000044461746100000100006520016000000000 ->| CSM MDI
+2026/07/12 11:19:24.325 [11:19:24.325] [No-Rep Async Message] -RunScriptAPI07F4821E6AD4 | API: Update ViewList >> [{Name:Chart1;VIPath:;Height(Default):500;Widht(Default):500;VIRef:<HEXSTR>2000800000000001001240700008000000020000055649526566000100000360010400000000},{Name:Chart2;VIPath:;Height(Default):500;Widht(Default):500;VIRef:<HEXSTR>20008000000000010012407000080000000200000556495265660001000003A000AA00000000},{Name:Light;VIPath:;Height(Default):50;Widht(Default):50;VIRef:<HEXSTR>20008000000000010012407000080000000200000556495265660001000003E000E300000000},{Name:Silde;VIPath:;Height(Default):100;Widht(Default):800;VIRef:<HEXSTR>200080000000000100124070000800000002000005564952656600010000042000C500000000}] ->| CSM MDI
+2026/07/12 11:19:24.325 [11:19:24.325] [State Change] CSM MDI | API: Update Subpanel >> <HEXSTR>2000800000000001001240700008000000410000044461746100000100006520016000000000 <- -RunScriptAPI07F4821E6AD4
+2026/07/12 11:19:24.325 [11:19:24.325] [No-Rep Async Message] -RunScriptAPI07F4821E6AD4 | API: Load Layout >> D:\LJC-ZHH\Support\github\CSM MDI ViewManager\Config\Last Layout.json ->| CSM MDI
+2026/07/12 11:19:24.394 [11:19:24.394] [State Change] CSM MDI | API: Update ViewList >> [{Name:Chart1;VIPath:;Height(Default):500;Widht(Default):500;VIRef:<HEXSTR>2000800000000001001240700008000000020000055649526566000100000360010400000000},{Name:Chart2;VIPath:;Height(Default):500;Widht(Default):500;VIRef:<HEXSTR>20008000000000010012407000080000000200000556495265660001000003A000AA00000000},{Name:Light;VIPath:;Height(Default):50;Widht(Default):50;VIRef:<HEXSTR>20008000000000010012407000080000000200000556495265660001000003E000E300000000},{Name:Silde;VIPath:;Height(Default):100;Widht(Default):800;VIRef:<HEXSTR>200080000000000100124070000800000002000005564952656600010000042000C500000000}] <- -RunScriptAPI07F4821E6AD4
+2026/07/12 11:19:24.396 [11:19:24.396] [State Change] CSM MDI | API: Load Layout >> D:\LJC-ZHH\Support\github\CSM MDI ViewManager\Config\Last Layout.json <- -RunScriptAPI07F4821E6AD4
+2026/07/12 11:19:24.396 [11:19:24.396] [State Change] CSM MDI | UI: Load Layout >> D:\LJC-ZHH\Support\github\CSM MDI ViewManager\Config\Last Layout.json
+2026/07/12 11:19:24.587 [11:19:24.587] [State Change] CSM MDI | 
+2026/07/12 11:19:24.589 [11:19:24.589] [State Change] CSM MDI | 
+2026/07/12 11:19:24.590 [11:19:24.590] [State Change] CSM MDI | 
+2026/07/12 11:19:24.592 [11:19:24.592] [State Change] CSM MDI | 
+2026/07/12 11:19:24.594 [11:19:24.594] [State Change] CSM MDI | 
+2026/07/12 11:19:24.613 [11:19:24.613] [State Change] CSM MDI | 
+2026/07/12 11:19:24.759 [11:19:24.759] [State Change] Chart1 | 
+2026/07/12 11:19:24.784 [11:19:24.784] [State Change] Chart2 | 
+2026/07/12 11:19:24.836 [11:19:24.836] [State Change] CSM MDI | 
+2026/07/12 11:19:24.848 [11:19:24.848] [State Change] CSM MDI | 
+2026/07/12 11:19:24.853 [11:19:24.853] [State Change] CSM MDI | 
+2026/07/12 11:19:24.858 [11:19:24.858] [State Change] CSM MDI | 
+2026/07/12 11:19:24.867 [11:19:24.867] [State Change] CSM MDI | 
+2026/07/12 11:19:24.880 [11:19:24.880] [State Change] CSM MDI | 
+2026/07/12 11:19:24.884 [11:19:24.884] [State Change] CSM MDI | 
+2026/07/12 11:19:24.900 [11:19:24.900] [State Change] CSM MDI | 
+2026/07/12 11:19:24.906 [11:19:24.906] [State Change] Light | 
+2026/07/12 11:19:24.912 [11:19:24.912] [State Change] CSM MDI | 
+2026/07/12 11:19:24.919 [11:19:24.919] [State Change] CSM MDI | 
+2026/07/12 11:19:24.937 [11:19:24.937] [State Change] CSM MDI | 
+2026/07/12 11:19:24.938 [11:19:24.938] [State Change] CSM MDI | 
+2026/07/12 11:19:24.940 [11:19:24.940] [State Change] CSM MDI | 
+2026/07/12 11:19:24.949 [11:19:24.949] [State Change] CSM MDI | 
+2026/07/12 11:19:24.965 [11:19:24.965] [State Change] CSM MDI | 
+2026/07/12 11:19:24.968 [11:19:24.968] [State Change] CSM MDI | 
+2026/07/12 11:19:24.972 [11:19:24.972] [State Change] CSM MDI | 
+2026/07/12 11:19:24.979 [11:19:24.979] [State Change] CSM MDI | 
+2026/07/12 11:19:24.998 [11:19:24.998] [State Change] CSM MDI | 
+2026/07/12 11:19:25.011 [11:19:25.011] [State Change] CSM MDI | 
+2026/07/12 11:19:25.045 [11:19:25.045] [State Change] CSM MDI | 
+2026/07/12 11:19:25.049 [11:19:25.049] [State Change] CSM MDI | 
+2026/07/12 11:19:25.055 [11:19:25.055] [State Change] CSM MDI | 
+2026/07/12 11:19:25.078 [11:19:25.078] [State Change] CSM MDI | 
+2026/07/12 11:19:25.083 [11:19:25.083] [State Change] CSM MDI | 
+2026/07/12 11:19:25.084 [11:19:25.084] [State Change] CSM MDI | 
+2026/07/12 11:19:25.104 [11:19:25.104] [State Change] CSM MDI | 
+2026/07/12 11:19:25.119 [11:19:25.119] [State Change] CSM MDI | 
+2026/07/12 11:19:25.120 [11:19:25.120] [State Change] CSM MDI | 
+2026/07/12 11:19:25.129 [11:19:25.129] [State Change] CSM MDI | 
+2026/07/12 11:19:25.137 [11:19:25.137] [State Change] CSM MDI | 
+2026/07/12 11:19:25.261 <Start Filter>[State Change]Chart1 | 
+2026/07/12 11:19:25.287 <Start Filter>[State Change]Chart2 | 
+2026/07/12 11:19:25.509 <Start Filter>[State Change]Light | 
+2026/07/12 11:19:25.751 [11:19:25.751] [No-Rep Async Message] -RunScriptAPI3A7314726ADF | API: Save Layout >> D:\LJC-ZHH\Support\github\CSM MDI ViewManager\Config\Last Layout.json ->| CSM MDI
+2026/07/12 11:19:25.751 [11:19:25.751] [State Change] CSM MDI | API: Save Layout >> D:\LJC-ZHH\Support\github\CSM MDI ViewManager\Config\Last Layout.json <- -RunScriptAPI3A7314726ADF
+2026/07/12 11:19:25.752 [11:19:25.752] [State Change] CSM MDI | UI: Save Layout >> D:\LJC-ZHH\Support\github\CSM MDI ViewManager\Config\Last Layout.json
+2026/07/12 11:19:25.752 [11:19:25.752] [Sync Message] -RunScriptAPIECB89E376BC8 | Macro: Exit -@ Chart1
+2026/07/12 11:19:25.752 [11:19:25.752] [State Change] Chart1 | Macro: Exit <- -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.753 [11:19:25.753] [State Change] Chart1 | UI: Front Panel State >> Close
+2026/07/12 11:19:25.756 [11:19:25.756] [State Change] Chart1 | Data: Cleanup
+2026/07/12 11:19:25.756 [11:19:25.756] [State Change] Chart1 | Events: Unregister
+2026/07/12 11:19:25.757 [11:19:25.757] [State Change] Chart1 | Exit
+2026/07/12 11:19:25.757 [11:19:25.757] [Sync Message] Chart1 | Macro: Exit(Complete) -@ -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.757 [11:19:25.757] [State Change] Chart1 | <Remaining States> >> <Empty>
+2026/07/12 11:19:25.757 [11:19:25.757] [Module Destroyed] Chart1
+2026/07/12 11:19:25.758 [11:19:25.757] [Sync Message] -RunScriptAPIECB89E376BC8 | Macro: Exit -@ Chart2
+2026/07/12 11:19:25.758 [11:19:25.757] [State Change] Chart2 | Macro: Exit <- -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.758 [11:19:25.758] [State Change] Chart2 | UI: Front Panel State >> Close
+2026/07/12 11:19:25.788 [11:19:25.788] [State Change] Chart2 | Data: Cleanup
+2026/07/12 11:19:25.794 [11:19:25.794] [State Change] Chart2 | Events: Unregister
+2026/07/12 11:19:25.794 [11:19:25.794] [State Change] Chart2 | Exit
+2026/07/12 11:19:25.794 [11:19:25.794] [Sync Message] Chart2 | Macro: Exit(Complete) -@ -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.795 [11:19:25.794] [Sync Message] -RunScriptAPIECB89E376BC8 | Macro: Exit -@ CSM MDI
+2026/07/12 11:19:25.795 [11:19:25.794] [State Change] Chart2 | <Remaining States> >> <Empty>
+2026/07/12 11:19:25.795 [11:19:25.794] [Module Destroyed] Chart2
+2026/07/12 11:19:25.845 [11:19:25.845] [State Change] CSM MDI | Macro: Exit <- -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.847 [11:19:25.847] [State Change] CSM MDI | UI: Front Panel State >> Close
+2026/07/12 11:19:25.858 [11:19:25.858] [State Change] Silde | 
+2026/07/12 11:19:25.863 [11:19:25.863] [State Change] CSM MDI | Data: Cleanup
+2026/07/12 11:19:25.900 [11:19:25.900] [State Change] CSM MDI | Events: Unregister
+2026/07/12 11:19:25.900 [11:19:25.900] [State Change] CSM MDI | Exit
+2026/07/12 11:19:25.900 [11:19:25.900] [Sync Message] CSM MDI | Macro: Exit(Complete) -@ -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.900 [11:19:25.900] [State Change] CSM MDI | <Remaining States> >> <Empty>
+2026/07/12 11:19:25.900 [11:19:25.900] [Module Destroyed] CSM MDI
+2026/07/12 11:19:25.901 [11:19:25.900] [Sync Message] -RunScriptAPIECB89E376BC8 | Macro: Exit -@ Light
+2026/07/12 11:19:25.917 [11:19:25.917] [State Change] Light | Macro: Exit <- -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.934 [11:19:25.934] [State Change] Light | UI: Front Panel State >> Close
+2026/07/12 11:19:25.935 [11:19:25.935] [State Change] Light | Data: Cleanup
+2026/07/12 11:19:25.935 [11:19:25.935] [State Change] Light | Events: Unregister
+2026/07/12 11:19:25.935 [11:19:25.935] [State Change] Light | Exit
+2026/07/12 11:19:25.936 [11:19:25.936] [Sync Message] Light | Macro: Exit(Complete) -@ -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.936 [11:19:25.936] [State Change] Light | <Remaining States> >> <Empty>
+2026/07/12 11:19:25.936 [11:19:25.936] [Module Destroyed] Light
+2026/07/12 11:19:25.936 [11:19:25.936] [Sync Message] -RunScriptAPIECB89E376BC8 | Macro: Exit -@ Silde
+2026/07/12 11:19:25.936 [11:19:25.936] [State Change] Silde | Macro: Exit <- -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:25.992 [11:19:25.992] [State Change] Silde | UI: Front Panel State >> Close
+2026/07/12 11:19:25.998 [11:19:25.998] [State Change] Silde | Data: Cleanup
+2026/07/12 11:19:25.999 [11:19:25.999] [State Change] Silde | Events: Unregister
+2026/07/12 11:19:26.000 [11:19:26.000] [State Change] Silde | Exit
+2026/07/12 11:19:26.000 [11:19:26.000] [Sync Message] Silde | Macro: Exit(Complete) -@ -RunScriptAPIECB89E376BC8
+2026/07/12 11:19:26.000 [11:19:26.000] [State Change] Silde | <Remaining States> >> <Empty>
+2026/07/12 11:19:26.000 [11:19:26.000] [Module Destroyed] Silde
+2026/07/12 11:19:26.400 <Logger Thread Exit> 0 logs are still in the queue.

@@ -6,17 +6,18 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Typedef" Type="Folder">
-		<Item Name="UpdateInsertableVICtl.ctl" Type="VI" URL="../Typedef/UpdateInsertableVICtl.ctl"/>
+		<Item Name="Update ViewList.ctl" Type="VI" URL="../Typedef/Update ViewList.ctl"/>
 		<Item Name="View.ctl" Type="VI" URL="../Typedef/View.ctl"/>
 	</Item>
 	<Item Name="Sub" Type="Folder">
-		<Item Name="InsertVI.vi" Type="VI" URL="../Sub/InsertVI.vi"/>
-		<Item Name="LayoutFGV.vi" Type="VI" URL="../Sub/LayoutFGV.vi"/>
-		<Item Name="SetSize.vi" Type="VI" URL="../Sub/SetSize.vi"/>
-		<Item Name="SizeSelect.vi" Type="VI" URL="../Sub/SizeSelect.vi"/>
-		<Item Name="TabRefGetSubPanel.vi" Type="VI" URL="../Sub/TabRefGetSubPanel.vi"/>
-		<Item Name="ViewInsertVI.vi" Type="VI" URL="../Sub/ViewInsertVI.vi"/>
+		<Item Name="Insert VI.vi" Type="VI" URL="../Sub/Insert VI.vi"/>
+		<Item Name="Layout FGV.vi" Type="VI" URL="../Sub/Layout FGV.vi"/>
+		<Item Name="Set Size.vi" Type="VI" URL="../Sub/Set Size.vi"/>
+		<Item Name="Size Select.vi" Type="VI" URL="../Sub/Size Select.vi"/>
+		<Item Name="TabRef Get SubPanel.vi" Type="VI" URL="../Sub/TabRef Get SubPanel.vi"/>
+		<Item Name="View Insert VI.vi" Type="VI" URL="../Sub/View Insert VI.vi"/>
+		<Item Name="Save Layout.vi" Type="VI" URL="../Sub/Save Layout.vi"/>
+		<Item Name="Load Layout.vi" Type="VI" URL="../Sub/Load Layout.vi"/>
 	</Item>
 	<Item Name="CSM MDI.vi" Type="VI" URL="../CSM MDI.vi"/>
-	<Item Name="CSM MDI Example.vi" Type="VI" URL="../CSM MDI Example.vi"/>
 </Library>
