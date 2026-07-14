@@ -19,6 +19,7 @@
 		<Item Name="Clean Layout.vi" Type="VI" URL="../Sub/Clean Layout.vi"/>
 		<Item Name="Load Layout By Name.vi" Type="VI" URL="../Sub/Load Layout By Name.vi"/>
 		<Item Name="Save Layout.vi" Type="VI" URL="../Sub/Save Layout.vi"/>
+		<Item Name="Add a Blank View.vi" Type="VI" URL="../Sub/Add a Blank View.vi"/>
 		<Item Name="Load Layout.vi" Type="VI" URL="../Sub/Load Layout.vi"/>
 		<Item Name="Set View Position.vi" Type="VI" URL="../Sub/Set View Position.vi"/>
 		<Item Name="Set View Size.vi" Type="VI" URL="../Sub/Set View Size.vi"/>
