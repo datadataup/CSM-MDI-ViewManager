@@ -23,6 +23,7 @@
 		<Item Name="Load Layout.vi" Type="VI" URL="../Sub/Load Layout.vi"/>
 		<Item Name="Set View Position.vi" Type="VI" URL="../Sub/Set View Position.vi"/>
 		<Item Name="Set View Size.vi" Type="VI" URL="../Sub/Set View Size.vi"/>
+		<Item Name="Menu Act.vi" Type="VI" URL="../Sub/Menu Act.vi"/>
 	</Item>
 	<Item Name="CSM MDI.vi" Type="VI" URL="../CSM MDI.vi"/>
 </Library>

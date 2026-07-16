@@ -77,7 +77,7 @@
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="CSM-MDI" Type="EXE">
+			<Item Name="MDI" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{E2734C35-A06E-4B96-ADBA-A8F871675577}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{D54FACFB-04CF-4DD3-96D1-AE23B814ED7F}</Property>
@@ -85,18 +85,19 @@
 				<Property Name="App_serverType" Type="Int">0</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{503B3B2B-4A91-4A06-BCE8-4B910DAA9EF5}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">CSM-MDI</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">MDI</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../_build</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B1388E55-3454-42FF-A326-82BC08C093F8}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">32</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">CSM-MDI.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../_build/NI_AB_PROJECTNAME.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">MDI.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../_build/MDI.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -104,7 +105,7 @@
 				<Property Name="Destination[1].path" Type="Path">../_build/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9B6D7FC5-5CD6-4100-B4E1-89F2C44C0BAA}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F3955B96-6421-4144-B562-1DAD7D13B88F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/_example/CSM MDI Example.vi</Property>
@@ -116,12 +117,13 @@
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/_example/ViewList</Property>
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">CSM-MDI</Property>
-				<Property Name="TgtF_internalName" Type="Str">CSM-MDI</Property>
+				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">MDI</Property>
+				<Property Name="TgtF_internalName" Type="Str">MDI</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright ?2026 </Property>
-				<Property Name="TgtF_productName" Type="Str">CSM-MDI</Property>
+				<Property Name="TgtF_productName" Type="Str">MDI</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{4A293871-223C-4451-9870-36AADF6696E8}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CSM-MDI.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">MDI.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
